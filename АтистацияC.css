@@ -1,0 +1,156 @@
+.Body{
+    background-color: white;
+}
+.Hed{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    height: 120px;
+    width: 1536px;
+}
+.Zagolobok{
+    position: absolute;
+left: 35%;
+
+top: 1%;
+
+font-family: 'Trebuchet MS';
+font-style: normal;
+font-weight: 40px;
+font-size: 90px;
+line-height: px;
+margin: 0px;
+color:white;
+width: 700px;
+}
+.Logo{
+position: absolute;
+width: 110px;
+height: 110px;
+background: #21D6D6;
+border-radius: 40px;
+top:1%;
+left: 25%
+}
+.Logo2{
+box-sizing: border-box;
+position: absolute;
+width: 100px;
+height: 100px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+top:4%;
+left: 5%;
+
+}
+.Ctolb{
+position: fixed;
+width: 150px;
+height: 633px;
+left: 0px;
+top: 120px;
+background: rgba(33, 214, 214, 0.45);
+}
+.Ctolb1{
+position: fixed;
+width: 150px;
+height: 633px;
+right: 0%;
+top: 120px;
+
+background: rgba(33, 214, 214, 0.45);
+}
+h2{
+position: absolute;
+width: 920px;
+height: 48px;
+top: 20%;
+left: 20%;
+
+font-family: 'Trebuchet MS';
+font-style: normal;
+font-weight: 40px;
+font-size: 40px;
+line-height: 48px;
+margin: 0%;
+text-align: center;
+color: #000000;
+}
+.Mak{
+width: 1150px;
+height: 100px;
+position: absolute;
+left: 12.5%;
+
+top: 40%;
+
+width: 1150px;
+height: 100px;
+background-color:darkgrey;
+}
+.Knopka{
+position: absolute;
+background: #D9D9D9;
+width: 150px;
+height: 70px;
+top: 15%;
+right: 1%
+}
+.Mak1{
+width: 1150px;
+height: 100px;
+position: absolute;
+left: 12.5%;
+
+top: 60%;
+
+width: 1150px;
+height: 100px;
+background-color: darkgrey;
+}
+.Mak2{
+width: 1150px;
+height: 100px;
+position: absolute;
+left: 12.5%;
+
+top: 80%;
+
+width: 1150px;
+height: 100px;
+background-color: darkgrey;
+}
+#A{
+position: absolute;
+right: 2%;
+top: 2%;
+font-family: 'Trebuchet MS';
+font-style: normal;
+font-weight: 50px;
+font-size: 28px;
+line-height: 65px;
+text-decoration: none;
+color: #000000;
+
+}
+p{
+position: absolute;
+font-family: 'Trebuchet MS';
+font-style: normal;
+font-weight: 40px;
+font-size: 30px;
+line-height: 58px;
+margin: 0px;
+color: #000000;
+
+}
+.Coderganie{
+top:45%;
+position: absolute;
+font-family: 'Trebuchet MS';
+font-style: normal;
+font-weight: 40px;
+font-size: 20px;
+line-height: 25px;
+padding: 0px;
+color: rgba(0, 0, 0, 0.57);
+}
