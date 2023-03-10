@@ -162,25 +162,25 @@ color: rgba(0, 0, 0, 0.57);
     }
     .Hed{
         height: 100px;
-        width: 170px;
+        width: 195px;
     }
     .Mak{
         width: 160px;
         height: 25px;
-        left: 1%;
-        top:40%;
+        left: 2%;
+        top:20%;
     }
     .Mak1{
         width: 160px;
         height: 25px;
-        left:1%;
-        top:55%;
+        left:2%;
+        top:30%;
     }
     .Mak2{
         width: 160px;
         height: 25px;
-        left: 1%;
-        top:70%;
+        left: 2%;
+        top:40%;
     }
     .Knopka{
         width: 37px;
@@ -205,10 +205,10 @@ line-height: 4px;
 width: 175px
 }
     h2{
-    font-size: 6px;
+    font-size: 4px;
     width: 150px;
-    line-height: 15px;
-    top: 21%;
+    line-height: 14px;
+    top: 15%;
     left: 5%;
     }
     .Ctolb{
@@ -222,7 +222,7 @@ top: 100px;
 
 width: 20px;
 height: 100%;
-left: 150px ;
+left: 175px ;
 top: 100px;
 
 
