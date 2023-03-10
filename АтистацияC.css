@@ -21,7 +21,7 @@ font-size: 90px;
 line-height: px;
 margin: 0px;
 color:white;
-width: 700px;
+width: 900px;
 }
 .Logo{
 position: absolute;
@@ -156,10 +156,10 @@ color: rgba(0, 0, 0, 0.57);
 }
 @media (max-width:1080px) and (max-height: 2340px) {
     .Zagolobok{
-        font-size: 80px
+        font-size: 80px;
     }
     .Hed{
-        height: 200px;
-        width: 1080px;
+        height: 300px;
+        width: 1500px;
     }
 }
