@@ -163,12 +163,34 @@ color: rgba(0, 0, 0, 0.57);
         width: 100%;
     }
     .Mak{
-        width: 50px;
+        width: 320px;
+        height: 50px;
     }
     .Mak1{
-        width: 50px;
+        width: 320px;
+        height: 50px;
     }
     .Mak2{
-        width: 50px;
+        width: 320px;
+        height: 50px;
     }
+    .Knopka{
+        width: 75px;
+        height: 25px;
+    }
+    #A{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    p{
+    font-size: 15px;
+    line-height: 15px;
+    width: 250px
+    }
+    .Coderganie{
+top: 61%;
+font-size: 10px;
+line-height: 9px;
+width: 330px
+}
 }
