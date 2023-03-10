@@ -156,54 +156,60 @@ color: rgba(0, 0, 0, 0.57);
 }
 @media (max-width:1080px) and (max-height: 2340px) {
     .Zagolobok{
-      font-size: 40px;
-      width: 200px;  
+      font-size: 20px;
+      width: 100px;  
       left: 13%
     }
     .Hed{
         height: 100px;
-        width: 100%;
+        width: 320px;
     }
     .Mak{
-        width: 320px;
-        height: 50px;
+        width: 160px;
+        height: 25px;
         left: 1%;
         top:40%;
     }
     .Mak1{
-        width: 320px;
-        height: 50px;
+        width: 160px;
+        height: 25px;
         left:1%;
         top:55%;
     }
     .Mak2{
-        width: 320px;
-        height: 50px;
+        width: 160px;
+        height: 25px;
         left: 1%;
         top:70%;
     }
     .Knopka{
-        width: 75px;
-        height: 25px;
+        width: 37px;
+        height: 15px;
     }
     #A{
-        font-size: 14px;
-        line-height: 22px;
+        font-size: 6px;
+        line-height: 9px;
+        
+        width: 32px;
+        height: 15px;
     }
     p{
-    font-size: 15px;
-    line-height: 15px;
-    width: 250px
+    font-size: 6px;
+    line-height: 8px;
+    width: 120px
     }
     .Coderganie{
 top: 61%;
-font-size: 10px;
-line-height: 9px;
-width: 330px
+font-size: 4px;
+line-height: 4px;
+width: 175px
 }
     h2{
-    font-size: 10px;
-    width: 200px;
+    font-size: 6px;
+    width: 150px;
+    line-height: 15px;
+    top: 21%;
+    left: 5%;
     }
     .Ctolb{
 
