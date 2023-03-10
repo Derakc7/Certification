@@ -154,7 +154,7 @@ line-height: 25px;
 padding: 0px;
 color: rgba(0, 0, 0, 0.57);
 }
-@media (max-width:720px) and (max-height:1280) {
+@media (max-width:720px) and (max-height: 1280px) {
     .Zagolobok{
         font-size: 45px;
     }
