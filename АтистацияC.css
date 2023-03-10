@@ -159,7 +159,16 @@ color: rgba(0, 0, 0, 0.57);
         
     }
     .Hed{
-        height: 400px;
-        width: 1600px;
+        height: 300px;
+        width: 1080px;
+    }
+    .Mak{
+        width: 1000px;
+    }
+    .Mak1{
+        width: 1000px;
+    }
+    .Mak2{
+        width: 1000px;
     }
 }
