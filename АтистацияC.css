@@ -20,7 +20,7 @@ font-weight: 40px;
 font-size: 90px;
 line-height: px;
 margin: 0px;
-color:white;
+color: white;
 width: 700px;
 }
 .Logo{
@@ -98,6 +98,7 @@ font-style: normal;
 text-decoration: none;
 color: #000000;
 font-size: 24px;
+transition: all 0.8s ease 0s;
 }
 .Mak1{
 width: 1050px;
@@ -154,7 +155,9 @@ line-height: 25px;
 padding: 0px;
 color: rgba(0, 0, 0, 0.57);
 }
-
+.Knopka:hover{
+    background-color: #00ADB5;
+}
 
 @media (max-width:1080px) and (max-height: 2340px) {
     .Zagolobok{
@@ -171,26 +174,31 @@ color: rgba(0, 0, 0, 0.57);
         height: 22px;
         left: 8.5px;
         top: 22%;
-        background-color: white;
+        background-color: #EEEEEE;
+        border:1px solid black;
+        border-color: #00ADB5;
     }
     .Mak1{
         width: 180px;
         height: 22px;
         left: 8.5px;
         top:27%;
-        background-color: white;
+        background-color: #EEEEEE;
+        border:1px solid black;
+        border-color: #00ADB5;
     }
     .Mak2{
         width: 180px;
         height: 22px;
         left: 8.5px;
         top:32%;
-        background-color: white;
+        background-color: #EEEEEE;
+        border:1px solid black;
+        border-color: #00ADB5;
     }
     .Knopka{
         width: 36px;
         height: 18px;
-        background: #e6e6e6;
         border: none;
         font-size:6px;
         right: 2%;
@@ -216,7 +224,7 @@ top: 55%;
     line-height: 14px;
     top: 15%;
     left: 6%;
-    color: white;
+    color: #EEEEEE;
     }
     .Ctolb{
 
@@ -257,6 +265,7 @@ left: 10%;
         overflow-y: hidden;
     }
     .Body{
-        background-color: #00001a ;
+        background-color: #393E46 ;
     }
+    
 }
