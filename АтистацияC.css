@@ -43,7 +43,7 @@ left: 5%;
 
 }
 .Ctolb{
-position: fixed;
+position: absolute;
 width: 150px;
 height: 200vh;
 left: 0px;
@@ -51,7 +51,7 @@ top: 120px;
 background: rgba(33, 214, 214, 0.45);
 }
 .Ctolb1{
-position: fixed;
+position: absolute;
 width: 150px;
 height: 200vh;
 right: 0%;
