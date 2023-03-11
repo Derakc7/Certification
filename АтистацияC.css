@@ -158,6 +158,32 @@ color: rgba(0, 0, 0, 0.57);
 .Knopka:hover{
     background-color: #00ADB5;
 }
+.text{
+    position: absolute;
+    background-color: #EEEEEE;
+    width: 1050px;
+    height: 420px;
+    top: 35%;
+    left: 12.5%;
+    overflow: scroll;
+}
+.Knopka2{
+position: absolute;
+background: #D9D9D9;
+width: 140px;
+height: 60px;
+top: 90%;
+left: 0.3%;
+font-family: 'Trebuchet MS';
+font-style: normal;
+text-decoration: none;
+color: #000000;
+font-size: 24px;
+transition: all 0.8s ease 0s;
+}
+.Knopka2:hover{
+    background-color: #00ADB5;
+}
 
 @media (max-width:1080px) and (max-height: 2340px) {
     .Zagolobok{
@@ -267,5 +293,18 @@ left: 10%;
     .Body{
         background-color: #222831 ;
     }
-    
+    .text{
+        left: 8.5px;
+        top: 22%;
+        width: 180px;
+        height: 200px;    
+    }
+    .Knopka2{
+         width: 36px;
+        height: 18px;
+        border: none;
+        font-size:6px;
+        left: 2%;
+        top: 75%;
+    }
 }
