@@ -297,14 +297,20 @@ left: 10%;
         left: 8.5px;
         top: 22%;
         width: 180px;
-        height: 200px;    
+        height: 180px;    
     }
     .Knopka2{
          width: 36px;
         height: 18px;
         border: none;
         font-size:6px;
-        left: 2%;
-        top: 75%;
+        left: 152px;
+        top: 256px;
+        position: fixed;
+    }
+    .S{
+    font-size: 6px;
+    line-height: 5px;
+    width: 100%
     }
 }
