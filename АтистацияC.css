@@ -245,4 +245,7 @@ top:8%;
 left: 10%;
 
 }
+    html, body {
+        overflow-x: hidden;
+    }
 }
