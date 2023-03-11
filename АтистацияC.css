@@ -169,21 +169,21 @@ color: rgba(0, 0, 0, 0.57);
     .Mak{
         width: 180px;
         height: 20px;
-        left: 3.5%;
+        left: 2%;
         top: 22%;
         background-color: white;
     }
     .Mak1{
         width: 180px;
         height: 20px;
-        left: 3.5%;
+        left: 2%;
         top:27%;
         background-color: white;
     }
     .Mak2{
         width: 180px;
         height: 20px;
-        left: 3.5%;
+        left: 2%;
         top:32%;
         background-color: white;
     }
@@ -198,18 +198,18 @@ color: rgba(0, 0, 0, 0.57);
     }
   
     p{
-    font-size: 3px;
-    line-height: 4px;
-    width: 60px
+    font-size: 5px;
+    line-height: 5px;
+    width: 90px
     }
     .Coderganie{
 top: 51%;
-font-size:2px;
+font-size:4px;
 line-height: 3px;
-width: 70px
+width: 90px
 }
     h2{
-    font-size: 5px;
+    font-size: 6px;
     width: 150px;
     line-height: 14px;
     top: 15%;
