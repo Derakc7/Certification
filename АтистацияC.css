@@ -254,6 +254,7 @@ left: 10%;
 }
     html, body {
         overflow-x: hidden;
+        overflow-y: hidden;
     }
     .Body{
         background-color: #00001a ;
