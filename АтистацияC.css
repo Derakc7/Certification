@@ -169,32 +169,33 @@ color: rgba(0, 0, 0, 0.57);
     .Mak{
         width: 180px;
         height: 22px;
-        left: 2%;
+        left: 8.5px;
         top: 22%;
         background-color: white;
     }
     .Mak1{
         width: 180px;
         height: 22px;
-        left: 2%;
+        left: 8.5px;
         top:27%;
         background-color: white;
     }
     .Mak2{
         width: 180px;
         height: 22px;
-        left: 2%;
-        top:32%;
+        left: 8.5px;
+        top:72%;
         background-color: white;
     }
     .Knopka{
-        width: 30px;
-        height: 15px;
+        width: 36px;
+        height: 18px;
         background: #e6e6e6;
         border: none;
-        font-size: 2px;
+        font-size: 5px;
         right: 2%;
         text-align: center;
+        top: 9%;
     }
   
     p{
