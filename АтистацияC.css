@@ -163,7 +163,7 @@ color: rgba(0, 0, 0, 0.57);
       left: 16%
     }
     .Hed{
-        height: 23%;
+        height: 12.5%;
         width: 197px;
     }
     .Mak{
@@ -195,13 +195,7 @@ color: rgba(0, 0, 0, 0.57);
         font-size: 4px;
         right: 2%;
     }
-    #A{
-        font-size: 4px;
-        line-height: 8px;
-        right: 13%;
-        width: 22px;
-        height: 13px;
-    }
+  
     p{
     font-size: 3px;
     line-height: 4px;
