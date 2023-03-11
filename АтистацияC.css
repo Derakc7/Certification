@@ -297,7 +297,9 @@ left: 10%;
         left: 8.5px;
         top: 22%;
         width: 180px;
-        height: 180px;    
+        height: 180px; 
+        border:1px solid black;
+        border-color: #00ADB5;
     }
     .Knopka2{
          width: 36px;
