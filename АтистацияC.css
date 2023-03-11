@@ -189,18 +189,18 @@ color: rgba(0, 0, 0, 0.57);
     #A{
         font-size: 4px;
         line-height: 8px;
-        right: 8%;
+        right: 10%;
         width: 22px;
         height: 13px;
     }
     p{
-    font-size: 4px;
+    font-size: 3px;
     line-height: 4px;
     width: 60px
     }
     .Coderganie{
 top: 51%;
-font-size: 3px;
+font-size:2px;
 line-height: 3px;
 width: 70px
 }
