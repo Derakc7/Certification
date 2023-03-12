@@ -297,25 +297,26 @@ left: 10%;
         width: 197px;
     }
     .text{
-        left: 8.5px;
-        top: 22%;
-        width: 180px;
-        height: 180px; 
-        border:1px solid black;
+        left: 10px;
+        top: 30%;
+        width: 374px;
+        height: 50%; 
+        border:3px solid black;
         border-color: #00ADB5;
     }
     .Knopka2{
-         width: 36px;
-        height: 18px;
+         width: 60px;
+        height: 30px;
         border: none;
-        font-size:6px;
-        left: 152px;
-        top: 307px;
+        font-size:10px;
+        left: 324px;
+        top: 80%;
         position: fixed;
     }
     .S{
-    font-size: 6px;
-    line-height: 5px;
+        
+    font-size: 8px;
+    line-height: 8px;
     width: 100%
     }
 }
