@@ -199,58 +199,59 @@ transition: all 0.8s ease 0s;
         width: 374px;
         height: 8%;
         left: 10px;
-        top: 22%;
+        top: 30%;
         background-color: #EEEEEE;
-        border:1px solid black;
+        border:3px solid black;
         border-color: #00ADB5;
     }
     .Mak1{
         width: 374px;
         height: 8%;
         left: 10px;
-        top:32%;
+        top:42.5%;
         background-color: #EEEEEE;
-        border:1px solid black;
+        border:3px solid black;
         border-color: #00ADB5;
     }
     .Mak2{
         width: 374px;
         height: 8%;
         left: 10px;
-        top:42%;
+        top:55%;
         background-color: #EEEEEE;
-        border:1px solid black;
+        border:3px solid black;
         border-color: #00ADB5;
     }
     .Knopka{
-        width: 36px;
-        height: 18px;
+        width: 60px;
+        height: 90%;
         border: none;
-        font-size:6px;
+        font-size:15px;
         right: 2%;
-        top: 9%;
+        top: 5%;
     }
   
     p{
-    font-size: 30%;
-    line-height: 7px;
-    width: 100px;
-    height: 22px;
+    font-size: 15px;
+    line-height: 15px;
+    width: 187px;
+    height: 90%;
+    top: 10%;
     }
     .Coderganie{
 
 font-size:0px;
 line-height: 3px;
-width: 110px;
-top: 55%;
+width: 0px;
+top: 0%;
     
 }
     h2{
-    font-size: 6px;
-    width: 150px;
+    font-size: 15px;
+    width: 334px;
     line-height: 14px;
-    top: 15%;
-    left: 6%;
+    top: 18%;
+    left: 30px;
     color: #EEEEEE;
     }
     .Ctolb{
