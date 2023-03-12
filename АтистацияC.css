@@ -187,37 +187,37 @@ transition: all 0.8s ease 0s;
 
 @media (max-width:1080px) and (max-height: 2340px) {
     .Zagolobok{
-      font-size: 20px;
+      font-size: 25px;
       width: 100px;  
-      left: 16%
+      left: 35%
     }
     .Hed{
         height: 15%;
         width: 394px;
     }
     .Mak{
-        width: 180px;
-        height: 22px;
-        left: 8.5px;
+        width: 374px;
+        height: 8%;
+        left: 10px;
         top: 22%;
         background-color: #EEEEEE;
         border:1px solid black;
         border-color: #00ADB5;
     }
     .Mak1{
-        width: 180px;
-        height: 22px;
-        left: 8.5px;
-        top:27%;
+        width: 374px;
+        height: 8%;
+        left: 10px;
+        top:32%;
         background-color: #EEEEEE;
         border:1px solid black;
         border-color: #00ADB5;
     }
     .Mak2{
-        width: 180px;
-        height: 22px;
-        left: 8.5px;
-        top:32%;
+        width: 374px;
+        height: 8%;
+        left: 10px;
+        top:42%;
         background-color: #EEEEEE;
         border:1px solid black;
         border-color: #00ADB5;
@@ -271,19 +271,19 @@ top: 100px;
 }
     .Logo{
 
-width: 50px;
-height: 50px;
+width: 55px;
+height: 55px;
 
 border-radius: 40px;
-top:1%;
-left: 1%
+top:2%;
+left: 19%
 }
     .Logo2{
 
-width: 40px;
-height: 40px;
+width: 45px;
+height: 45px;
 
-top:8%;
+top:9%;
 left: 10%;
 
 }
